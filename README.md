@@ -5,12 +5,12 @@
 <div align="center">
   <img 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=wolf011&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=joaovsc0de&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       style="margin-right: 30px;"
   />
   <img 
       height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf011&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsc0de&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
 
@@ -128,20 +128,20 @@
 ### 📬 Sobre
 
 <div align="left" style="margin-top: 30px;">
-  <a href="https://www.linkedin.com/in/hugo-ms-braga/" target="_blank">
+  <a href="www.linkedin.com/in/joão-vitor-carneiro/" target="_blank">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         style="margin: 0 5px;"
     />
   </a>
-  <a href="https://github.com/wolf011?tab=repositories&sort=stargazers">
+  <a href="https://github.com/joaovsc0de?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
         src="https://custom-icon-badges.demolab.com/github/stars/wolf011?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         style="margin: 0 5px;"
     />
   </a>
-  <a href="https://github.com/wolf011?tab=followers">
+  <a href="https://github.com/joaovsc0de?tab=followers">
     <img 
         alt="Seguidores" 
         src="https://custom-icon-badges.demolab.com/github/followers/wolf011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
