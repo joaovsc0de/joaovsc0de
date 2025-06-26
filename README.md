@@ -9,7 +9,8 @@
       style="margin-right: 30px;"
   />
   <img 
-      height="180em" 
+      height="180em"
+      width="600em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovsc0de&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
