@@ -126,6 +126,20 @@
     style="margin: 0 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
+  <img 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="40px" 
+    style="margin: 0 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" 
+/>
+  <img 
+    alt="Linux" 
+    title="Linux"
+    width="40px" 
+    style="margin: 0 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 </div>
 
 <br>
