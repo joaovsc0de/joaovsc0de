@@ -128,7 +128,7 @@
 ### 📬 Sobre
 
 <div align="left" style="margin-top: 30px;">
-  <a href="[www.linkedin.com/in/joão-vitor-carneiro/](https://www.linkedin.com/in/joão-vitor-carneiro-048172305/)" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-vitor-carneiro-048172305/" target="_blank">
     <img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         style="margin: 0 5px;"
