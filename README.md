@@ -140,13 +140,6 @@
     style="margin: 0 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-  <img 
-  alt="Cisco" 
-  title="Cisco" 
-  width="40px" 
-  style="margin: 0 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cisco/cisco-original.svg" 
-/>
 </div>
 
 <br>
