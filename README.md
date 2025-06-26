@@ -137,14 +137,14 @@
   <a href="https://github.com/joaovsc0de?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
-        src="https://custom-icon-badges.demolab.com/github/stars/wolf011?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/joaovsc0de?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         style="margin: 0 5px;"
     />
   </a>
   <a href="https://github.com/joaovsc0de?tab=followers">
     <img 
         alt="Seguidores" 
-        src="https://custom-icon-badges.demolab.com/github/followers/wolf011?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/github/followers/joaovsc0de?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         style="margin: 0 5px;"
     />
   </a>
