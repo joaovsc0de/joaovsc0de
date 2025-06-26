@@ -119,6 +119,13 @@
       style="margin: 0 10px;" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" 
   />
+  <img 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="margin: 0 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 </div>
 
 <br>
